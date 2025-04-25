@@ -500,7 +500,7 @@ section h1 {
     flex-wrap: wrap;
     justify-content: center;
     gap: 40px;
-    max-width: 1500px;
+    max-width: 1400px;
     max-height:900px;
     margin: auto;
 }
@@ -542,7 +542,7 @@ section h1 {
 #gitLink{
     color: #3c3cc9;  /* Blue color */
     text-decoration: none;  /* Remove underline */
-    font-size: 18px;  /* Set font size */
+    font-size: 10px;  /* Set font size */
 }
 
 #gitLink :hover {
