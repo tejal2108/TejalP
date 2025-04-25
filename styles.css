@@ -371,7 +371,6 @@ section h1 {
 
 /* Education Section */
 #education {
-    margin-top: 20px;
     height: 100%; /* Adjust height based on content */
     padding: 20px 20px;
     text-align: center;
@@ -480,7 +479,7 @@ section h1 {
 
 /* Projects Section */
 #projects {
-    margin-top: 60px;
+    margin-top: 40px;
     height: auto; /* Adjust height dynamically */
     padding: 20px 20px;
     background: #ffffff; /* White background */
