@@ -500,7 +500,7 @@ section h1 {
     flex-wrap: wrap;
     justify-content: center;
     gap: 40px;
-    max-width: 79%;
+    max-width: 90%;
     max-height: 60%;
     margin: auto;
 }
@@ -510,7 +510,7 @@ section h1 {
     background: #f9f9f9;
     border-radius: 12px;
     padding: 20px;
-    width: 30%;
+    width: 40%;
     min-width: 280px;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
     text-align: left;
