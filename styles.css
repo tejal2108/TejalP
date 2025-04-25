@@ -509,7 +509,8 @@ section h1 {
     flex-wrap: wrap;
     justify-content: center;
     gap: 40px;
-    max-width: 1000px;
+    max-width: 1300px;
+    max-height:800px;
     margin: auto;
 }
 
